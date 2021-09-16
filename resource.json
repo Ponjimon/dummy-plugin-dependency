@@ -1,0 +1,8 @@
+{
+  "name": "dummy-plugin-dependency",
+  "version": "0.1.0",
+  "rootDir": "build",
+  "dependencies": {
+    "@Ponjimon/dummy-plugin": "^0.1.0"
+  }
+}
